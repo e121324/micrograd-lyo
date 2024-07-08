@@ -1,2 +1,5 @@
-# micrograd-lyo
+# Micrograd-lyo
+
+---
+
 Reimplementation of micrograd engine 
